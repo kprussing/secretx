@@ -7,9 +7,9 @@ classified documents.  This is the spiritual successor to the
 footers marked correctly.  The goal is to mark sections of the document
 like
 
-    \U{This paragraph is unclassified}
+    \UCL{This paragraph is unclassified}
 
-    \C{This paragraph has a higher classification}
+    \CNF{This paragraph has a higher classification}
 
 and let LaTeX do the hard work of getting the paragraph, header, and
 footer markings correct.  In the long run, the goal is to get LaTeX to
@@ -35,7 +35,6 @@ Alternatively, you can run
 Usage
 -----
 
-To use, simply add `\usepackage{secretx}` or `\usetheme{secretx}` to
-your document.
+To use, simply add `\usepackage{secretx}` to your document.
 
 [dtxtools]: https://github.com/kprussing/scons-dtxtools
