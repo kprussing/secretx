@@ -13,3 +13,6 @@ Depends(pdf, stys)
 if not GetOption("clean"):
     Default(pdf)
 
+examples = [p for t in ("example-slides.tex",)
+              for p in env.PDF(t)]
+
