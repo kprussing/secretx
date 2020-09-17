@@ -8,7 +8,8 @@ env = Environment(TEXINPUTS=os.curdir,
 
 root = "secretx"
 pdf = env.PDF(root + ".dtx",
-              MAKEINDEX=env["MAKEINDEX"] + " -s gind.ist")
+              MAKEINDEXFLAGS="-s gind.ist",
+              MAKEGLOSSARYSTYLE="gglo.ist")
 stys = env.ins2sty([], root + ".ins")
 Depends(pdf, stys)
 if not GetOption("clean"):
