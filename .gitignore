@@ -1,2 +1,5 @@
 secretx.sty
 example-*.tex
+*.hd
+*.glg
+*.gls
