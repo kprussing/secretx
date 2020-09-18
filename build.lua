@@ -2,6 +2,10 @@
 
 module = "secretx"
 
+-- The unpack directory has to be on the search path so building the
+-- documentation can find sectetx.sty
+texmfdir = "build/unpacked"
+
 -- Typeset and install the examples and sources to the doc folder
 docdir = "doc/latex/" .. module .. "/"
 demofiles = {"example-doc.tex",
