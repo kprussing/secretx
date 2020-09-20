@@ -43,8 +43,8 @@ Completed box being shipped out [1]
 ..........\glue(\rightskip) 0.0 plus 1.0fil
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
-.......\vbox(8.39996+3.60004)x345.0, direction TLT
-........\hbox(8.39996+3.60004)x345.0, glue set 151.64fil, direction TLT
+.......\vbox(0.0+0.0)x345.0, direction TLT
+........\hbox(0.0+0.0)x345.0, glue set 172.5fil, direction TLT
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\localpar
 ..........\localinterlinepenalty=0
@@ -52,22 +52,6 @@ Completed box being shipped out [1]
 ..........\localleftbox=null
 ..........\localrightbox=null
 .........\hbox(0.0+0.0)x0.0, direction TLT
-.........\TU/lmr/m/n/10 S
-.........\TU/lmr/m/n/10 e
-.........\TU/lmr/m/n/10 n
-.........\discretionary (penalty 50)
-..........< \TU/lmr/m/n/10 -
-.........\TU/lmr/m/n/10 s
-.........\TU/lmr/m/n/10 i
-.........\discretionary (penalty 50)
-..........< \TU/lmr/m/n/10 -
-.........\TU/lmr/m/n/10 t
-.........\TU/lmr/m/n/10 i
-.........\TU/lmr/m/n/10 v
-.........\kern-0.28 (font)
-.........\TU/lmr/m/n/10 e
-.........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-.........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
 .........\glue(\parfillskip) 0.0
 .........\glue(\rightskip) 0.0 plus 1.0fil
@@ -4428,8 +4412,8 @@ p\ETC.}
 .........\glue(\rightskip) 0.0 plus 1.0fil
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\glue 0.0 plus 1.0fill
-......\vbox(8.39996+3.60004)x345.0, direction TLT
-.......\hbox(8.39996+3.60004)x345.0, glue set 151.64fil, direction TLT
+......\vbox(0.0+0.0)x345.0, direction TLT
+.......\hbox(0.0+0.0)x345.0, glue set 172.5fil, direction TLT
 ........\glue(\leftskip) 0.0 plus 1.0fil
 ........\localpar
 .........\localinterlinepenalty=0
@@ -4437,22 +4421,6 @@ p\ETC.}
 .........\localleftbox=null
 .........\localrightbox=null
 ........\hbox(0.0+0.0)x0.0, direction TLT
-........\TU/lmr/m/n/10 S
-........\TU/lmr/m/n/10 e
-........\TU/lmr/m/n/10 n
-........\discretionary (penalty 50)
-.........< \TU/lmr/m/n/10 -
-........\TU/lmr/m/n/10 s
-........\TU/lmr/m/n/10 i
-........\discretionary (penalty 50)
-.........< \TU/lmr/m/n/10 -
-........\TU/lmr/m/n/10 t
-........\TU/lmr/m/n/10 i
-........\TU/lmr/m/n/10 v
-........\kern-0.28 (font)
-........\TU/lmr/m/n/10 e
-........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-........\rule(8.39996+3.60004)x0.0
 ........\penalty 10000
 ........\glue(\parfillskip) 0.0
 ........\glue(\rightskip) 0.0 plus 1.0fil
