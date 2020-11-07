@@ -258,21 +258,20 @@ s\ETC.}
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(3.75+0.0)x20.0, glue set 20.0fil, direction TLT
-......\penalty 10000
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(3.75+0.0)x0.0, glue set - 7.78fil, direction TLT
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 •
 .....\glue 5.0
 ....\penalty 0
-....\hbox(7.5+2.5)x0.0, glue set - 34.44fil, direction TLT
+....\hbox(7.5+2.5)x0.0, glue set - 39.44fil, direction TLT
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmr/m/n/10 (
 .....\TU/lmr/m/n/10 1
 .....\TU/lmr/m/n/10 )
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-.....\kern15.0
+.....\kern20.0
 ....\TU/lmr/m/n/10 L
 ....\TU/lmr/m/n/10 o
 ....\TU/lmr/m/n/10 r
@@ -1412,21 +1411,20 @@ ne \ETC.}
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(3.75+0.0)x20.0, glue set 20.0fil, direction TLT
-......\penalty 10000
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(3.75+0.0)x0.0, glue set - 7.78fil, direction TLT
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 •
 .....\glue 5.0
 ....\penalty 0
-....\hbox(7.5+2.5)x0.0, glue set - 34.44fil, direction TLT
+....\hbox(7.5+2.5)x0.0, glue set - 39.44fil, direction TLT
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmr/m/n/10 (
 .....\TU/lmr/m/n/10 1
 .....\TU/lmr/m/n/10 )
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-.....\kern15.0
+.....\kern20.0
 ....\TU/lmr/m/n/10 N
 ....\TU/lmr/m/n/10 a
 ....\TU/lmr/m/n/10 m
@@ -2128,21 +2126,20 @@ ne \ETC.}
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(3.75+0.0)x20.0, glue set 20.0fil, direction TLT
-......\penalty 10000
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(3.75+0.0)x0.0, glue set - 7.78fil, direction TLT
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 •
 .....\glue 5.0
 ....\penalty 0
-....\hbox(7.5+2.5)x0.0, glue set - 34.44fil, direction TLT
+....\hbox(7.5+2.5)x0.0, glue set - 39.44fil, direction TLT
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmr/m/n/10 (
 .....\TU/lmr/m/n/10 1
 .....\TU/lmr/m/n/10 )
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-.....\kern15.0
+.....\kern20.0
 ....\TU/lmr/m/n/10 N
 ....\TU/lmr/m/n/10 u
 ....\TU/lmr/m/n/10 l
@@ -3037,21 +3034,21 @@ ne \ETC.}
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 4.0 plus 2.0 minus 1.0
 ...\glue(\baselineskip) 4.39
-...\hbox(7.5+2.5)x320.0, glue set - 0.27379, shifted 25.0, direction TLT
+...\hbox(7.5+2.5)x320.0, glue set 0.58536, shifted 25.0, direction TLT
 ....\localpar
 .....\localinterlinepenalty=0
 .....\localbrokenpenalty=0
 .....\localleftbox=null
 .....\localrightbox=null
-....\hbox(0.0+0.0)x15.0, direction TLT
-....\hbox(7.5+2.5)x0.0, glue set - 34.44fil, direction TLT
+....\hbox(0.0+0.0)x0.0, direction TLT
+....\hbox(7.5+2.5)x0.0, glue set - 39.44fil, direction TLT
 .....\glue 0.0 plus 1.0fil minus 1.0fil
 .....\TU/lmr/m/n/10 (
 .....\TU/lmr/m/n/10 1
 .....\TU/lmr/m/n/10 )
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 .....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-.....\kern15.0
+.....\kern20.0
 ....\TU/lmr/m/n/10 Q
 ....\TU/lmr/m/n/10 u
 ....\TU/lmr/m/n/10 i
@@ -3137,7 +3134,7 @@ ne \ETC.}
 ....\glue(\rightskip) 0.0
 ...\penalty 150
 ...\glue(\baselineskip) 2.56
-...\hbox(6.94+1.94)x320.0, glue set - 0.64688, shifted 25.0, direction TLT
+...\hbox(6.94+1.94)x320.0, glue set 0.28401, shifted 25.0, direction TLT
 ....\TU/lmr/m/n/10 l
 ....\TU/lmr/m/n/10 a
 ....\discretionary (penalty 50)
@@ -3224,17 +3221,17 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 d
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 p
-....\discretionary (penalty 50)
-.....< \TU/lmr/m/n/10 -
-....\TU/lmr/m/n/10 i
-....\TU/lmr/m/n/10 s
-....\TU/lmr/m/n/10 c
 ....\TU/lmr/m/n/10 -
 ....\discretionary (penalty 50)
 ....\glue(\rightskip) 0.0
 ...\penalty 100
 ...\glue(\baselineskip) 3.12
-...\hbox(6.94+2.06)x320.0, glue set - 0.5208, shifted 25.0, direction TLT
+...\hbox(6.94+2.06)x320.0, glue set 0.71611, shifted 25.0, direction TLT
+....\TU/lmr/m/n/10 i
+....\TU/lmr/m/n/10 s
+....\TU/lmr/m/n/10 c
+....\discretionary (penalty 50)
+.....< \TU/lmr/m/n/10 -
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 n
 ....\TU/lmr/m/n/10 g
@@ -3320,7 +3317,9 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 l
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 s
-....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 2.78
+...\hbox(7.16+2.06)x320.0, glue set 0.42772, shifted 25.0, direction TLT
 ....\TU/lmr/m/n/10 a
 ....\TU/lmr/m/n/10 u
 ....\discretionary (penalty 50)
@@ -3329,9 +3328,7 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 u
 ....\TU/lmr/m/n/10 e
 ....\TU/lmr/m/n/10 .
-....\glue(\rightskip) 0.0
-...\glue(\baselineskip) 2.78
-...\hbox(7.16+1.94)x320.0, glue set 0.43845, shifted 25.0, direction TLT
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
 ....\TU/lmr/m/n/10 E
 ....\TU/lmr/m/n/10 t
 ....\TU/lmr/m/n/10 i
@@ -3412,8 +3409,12 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 l
 ....\TU/lmr/m/n/10 a
 ....\TU/lmr/m/n/10 c
+....\TU/lmr/m/n/10 -
 ....\discretionary (penalty 50)
-.....< \TU/lmr/m/n/10 -
+....\glue(\rightskip) 0.0
+...\penalty 100
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+2.06)x320.0, glue set - 0.6182, shifted 25.0, direction TLT
 ....\TU/lmr/m/n/10 e
 ....\TU/lmr/m/n/10 r
 ....\TU/lmr/m/n/10 a
@@ -3422,9 +3423,7 @@ ne \ETC.}
 ....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
 ....\TU/lmr/m/n/10 U
 ....\TU/lmr/m/n/10 t
-....\glue(\rightskip) 0.0
-...\glue(\baselineskip) 3.01
-...\hbox(7.05+2.06)x320.0, glue set - 0.02588, shifted 25.0, direction TLT
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 m
 ....\discretionary (penalty 50)
@@ -3507,19 +3506,17 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 a
 ....\TU/lmr/m/n/10 m
 ....\TU/lmr/m/n/10 ,
-....\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 3.0
+...\hbox(6.94+2.06)x320.0, glue set 0.28348, shifted 25.0, direction TLT
 ....\TU/lmr/m/n/10 a
 ....\TU/lmr/m/n/10 c
 ....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ....\TU/lmr/m/n/10 p
 ....\TU/lmr/m/n/10 u
 ....\TU/lmr/m/n/10 l
-....\TU/lmr/m/n/10 -
 ....\discretionary (penalty 50)
-....\glue(\rightskip) 0.0
-...\penalty 100
-...\glue(\baselineskip) 3.0
-...\hbox(6.94+2.06)x320.0, glue set - 0.4375, shifted 25.0, direction TLT
+.....< \TU/lmr/m/n/10 -
 ....\TU/lmr/m/n/10 v
 ....\discretionary (penalty 50)
 .....< \TU/lmr/m/n/10 -
@@ -3594,7 +3591,10 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 b
 ....\TU/lmr/m/n/10 h
-....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\glue(\rightskip) 0.0
+...\penalty 150
+...\glue(\baselineskip) 3.0
+...\hbox(6.94+1.94)x320.0, glue set 54.56fil, shifted 25.0, direction TLT
 ....\TU/lmr/m/n/10 s
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 t
@@ -3603,10 +3603,7 @@ ne \ETC.}
 ....\TU/lmr/m/n/10 m
 ....\TU/lmr/m/n/10 e
 ....\TU/lmr/m/n/10 t
-....\glue(\rightskip) 0.0
-...\penalty 150
-...\glue(\baselineskip) 3.0
-...\hbox(6.94+1.94)x320.0, glue set 93.49fil, shifted 25.0, direction TLT
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ....\TU/lmr/m/n/10 n
 ....\TU/lmr/m/n/10 i
 ....\TU/lmr/m/n/10 s
