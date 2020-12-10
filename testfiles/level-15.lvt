@@ -1,0 +1,15 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage{secretx}
+\input{redefines}
+\usepackage{mwe}
+\begin{document}
+\START
+\showoutput
+\secretnoforn{\lipsum[1]}
+
+\begin{secretnoforn block}
+\lipsum[2-10]\par
+\end{secretnoforn block}
+
+\end{document}
