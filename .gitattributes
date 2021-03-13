@@ -1,0 +1,3 @@
+testfiles/*.tlg     -diff -merge
+
+testfiles/*.tlg     linguist-generated=true
