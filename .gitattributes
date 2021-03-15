@@ -1,3 +1,5 @@
 testfiles/*.tlg     -diff -merge
+docs/**             -diff -merge
 
 testfiles/*.tlg     linguist-generated=true
+docs/**             linguist-generated=true
