@@ -1,0 +1,11 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage{secretx}
+\begin{document}
+\START
+\exportcontrol
+
+\exportcontrol[\textwidth]
+
+\exportcontrol[0.5\textwidth]
+\end{document}
