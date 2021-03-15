@@ -4,3 +4,5 @@ example-*.tex
 *.hd
 *.glg
 *.gls
+docs/.buildinfo
+docs/.doctrees

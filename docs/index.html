@@ -1,0 +1,144 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Macros for Marking Classified Documents &#8212; secretx 0.9.1 documentation</title>
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="toctree-wrapper compound">
+</div>
+<div class="section" id="macros-for-marking-classified-documents">
+<h1>Macros for Marking Classified Documents<a class="headerlink" href="#macros-for-marking-classified-documents" title="Permalink to this headline">¶</a></h1>
+<p>This package implements a set of LaTeX macros for automating marking of
+classified documents.  This is the spiritual successor to the
+<code class="docutils literal notranslate"><span class="pre">secret.sty</span></code> package with the added benefit of getting the headers and
+footers marked correctly.  The goal is to mark sections of the document
+like</p>
+<div class="highlight-latex notranslate"><div class="highlight"><pre><span></span><span class="k">\unclassified</span><span class="nb">{</span>This paragraph is unclassified<span class="nb">}</span>
+
+<span class="k">\confidential</span><span class="nb">{</span>This paragraph has a higher classification<span class="nb">}</span>
+</pre></div>
+</div>
+<p>and let LaTeX do the hard work of getting the paragraph, header, and
+footer markings correct.  A long term goal is to add features to get
+LaTeX to handle marking many features including the title page, tables,
+and figures.</p>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>To install from the git repository, run</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>l3build install
+</pre></div>
+</div>
+<p>Alternatively, you can run</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pdflatex secretx.ins
+pdflatex secretx.dtx
+</pre></div>
+</div>
+<p>(repeat as necessary to resolve the references) by hand.</p>
+</div>
+<div class="section" id="usage">
+<h2>Usage<a class="headerlink" href="#usage" title="Permalink to this headline">¶</a></h2>
+<p>To use, simply add <code class="docutils literal notranslate"><span class="pre">\usepackage{secretx}</span></code> to your document.  Then apply
+the named macros to the paragraphs of your document as appropriate.  For
+more details, see the documentation (<code class="docutils literal notranslate"><span class="pre">texdoc</span> <span class="pre">secretx</span></code>).</p>
+</div>
+<div class="section" id="contributing">
+<h2>Contributing<a class="headerlink" href="#contributing" title="Permalink to this headline">¶</a></h2>
+<p>Thank you for your interest in improving this package.  <code class="docutils literal notranslate"><span class="pre">Secretx</span></code> is
+open sourced under the <a class="reference external" href="https://opensource.org/licenses/LPPL-1.3c">LaTeX Project Public License</a> and welcomes
+feedback via bug reports, feature requested, and pull requests.  Please
+report all bugs or request a feature by submitting an issue on the
+<a class="reference external" href="https://github.com/kprussing/secretx">Github</a> project page.</p>
+<div class="section" id="reporting-issues">
+<h3>Reporting Issues<a class="headerlink" href="#reporting-issues" title="Permalink to this headline">¶</a></h3>
+<p>When submitting a but report on <a class="reference external" href="https://github.com/kprussing/secretx">Github</a>, please include as much
+information as possible to allow us to figure out what is happening.
+Where possible, please try to include a simplified document
+demonstrating the issue.  We do understand that the expected usage of
+this package prevents inclusion of a stripped down original source, but
+a bet effort to show what is happening will make it easier for us to
+address the problem.</p>
+</div>
+<div class="section" id="pull-requests">
+<h3>Pull Requests<a class="headerlink" href="#pull-requests" title="Permalink to this headline">¶</a></h3>
+<p>Pull requests should include:</p>
+<ul class="simple">
+<li><p>Update the documentation</p></li>
+<li><p>Add a <code class="docutils literal notranslate"><span class="pre">\changes</span></code> command briefly explaining the changes</p></li>
+<li><p>Include a test demonstrating the new/fixed behavior</p></li>
+<li><p>Be against the <code class="docutils literal notranslate"><span class="pre">trunk</span></code> branch</p></li>
+</ul>
+<p>The development uses <code class="docutils literal notranslate"><span class="pre">l3build</span></code> to run the tests using the <code class="docutils literal notranslate"><span class="pre">pdftex</span></code>,
+<code class="docutils literal notranslate"><span class="pre">xetex</span></code>, and <code class="docutils literal notranslate"><span class="pre">luatex</span></code> engines.  For more details, see <code class="docutils literal notranslate"><span class="pre">texdoc</span>
+<span class="pre">l3build</span></code>.</p>
+</div>
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Table of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Macros for Marking Classified Documents</a><ul>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#usage">Usage</a></li>
+<li><a class="reference internal" href="#contributing">Contributing</a><ul>
+<li><a class="reference internal" href="#reporting-issues">Reporting Issues</a></li>
+<li><a class="reference internal" href="#pull-requests">Pull Requests</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2019-2021, Keith F. Prussing.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.5.2</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
