@@ -1,0 +1,17 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage{secretx}
+\begin{document}
+\START
+\distribution{A}{(reason)}{(date of determination)}{(controlling DoD office)}
+
+\distribution{B}{(reason)}{(date of determination)}{(controlling DoD office)}
+
+\distribution{C}{(reason)}{(date of determination)}{(controlling DoD office)}
+
+\distribution{D}{(reason)}{(date of determination)}{(controlling DoD office)}
+
+\distribution{E}{(reason)}{(date of determination)}{(controlling DoD office)}
+
+\distribution{F}{(reason)}{(date of determination)}{(controlling DoD office)}
+\end{document}
