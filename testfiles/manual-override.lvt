@@ -1,0 +1,19 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage[heading={Manual Override}]{secretx}
+\input{redefines}
+\usepackage{mwe}
+\begin{document}
+\START
+\showoutput
+\begin{unclassified block}
+\lipsum[1-3]\par
+\end{unclassified block}
+\confidential{\lipsum[4]}\par
+\unclassified{\lipsum[5]}\par
+\fouo{\lipsum[6]}\par
+\topsecret{\lipsum[7]}\par
+\begin{unclassified block}
+\lipsum[8-10]
+\end{unclassified block}
+\end{document}
