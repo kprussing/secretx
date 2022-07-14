@@ -1,0 +1,26 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage{secretx}
+\input{redefines}
+\usepackage{mwe}
+\begin{document}
+\START
+\showoutput
+
+\section{Marking on Item}
+
+\begin{enumerate}
+\item \unclassified{\lipsum[1]}
+\end{enumerate}
+
+\begin{unclassified block}
+\section{Marking list via Environment}
+
+\begin{enumerate}
+\item \lipsum[2]
+\item \lipsum[3-4]
+\end{enumerate}
+
+\end{unclassified block}
+
+\end{document}
