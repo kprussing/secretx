@@ -5,7 +5,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line ....
 Overfull \hbox (21.79999pt too wide) in paragraph at lines 8--9
-[][][] 
+[][] 
 \hbox(34.45+29.45)x345.0, direction TLT
 .\localpar
 ..\localinterlinepenalty=0
@@ -13,11 +13,6 @@ Overfull \hbox (21.79999pt too wide) in paragraph at lines 8--9
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x15.0, direction TLT
-.\hbox(0.0+0.0)x0.0, glue set - 21.66fil, direction TLT
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-..\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-..\kern15.0
 .\hbox(34.45+29.45)x351.79999, direction TLT
 ..\hbox(63.9+0.0)x351.79999, shifted 29.45, direction TLT
 ...\vbox(63.9+0.0)x351.79999, direction TLT
@@ -37,11 +32,6 @@ Overfull \hbox (21.79999pt too wide) in paragraph at lines 8--9
 ..........\localleftbox=null
 ..........\localrightbox=null
 .........\hbox(0.0+0.0)x0.0, direction TLT
-.........\hbox(0.0+0.0)x0.0, glue set - 6.66fil, direction TLT
-..........\glue 0.0 plus 1.0fil minus 1.0fil
-..........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-..........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-..........\kern0.0
 .........\TU/lmr/m/n/10 W
 .........\kern-1.11 (font)
 .........\TU/lmr/m/n/10 A
