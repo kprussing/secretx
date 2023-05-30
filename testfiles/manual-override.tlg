@@ -24,7 +24,7 @@ Completed box being shipped out [1]
 .......\hbox(8.39996+3.60004)x345.0
 ........\hbox(8.39996+3.60004)x0.0, glue set - 345.0fil
 .........\vbox(8.39996+3.60004)x345.0
-..........\hbox(8.39996+3.60004)x345.0, glue set 139.23605fil
+..........\hbox(8.39996+3.60004)x345.0, glue set 136.73605fil
 ...........\hbox(0.0+0.0)x0.0
 ...........\OT1/cmr/m/n/10 D
 ...........\OT1/cmr/m/n/10 o
@@ -40,6 +40,7 @@ Completed box being shipped out [1]
 ...........\OT1/cmr/m/n/10 | (ligature ---)
 ...........\discretionary
 ...........\glue 3.33333 plus 1.66666 minus 1.11111
+...........\OT1/cmr/m/n/10 2
 ...........\OT1/cmr/m/n/10 5
 ...........\rule(8.39996+3.60004)x0.0
 ...........\penalty 10000
@@ -48,7 +49,7 @@ Completed box being shipped out [1]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 135.52771fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 133.86104fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
 ..........\OT1/cmr/m/n/10 M
@@ -68,6 +69,7 @@ Completed box being shipped out [1]
 ..........\OT1/cmr/m/n/10 i
 ..........\OT1/cmr/m/n/10 d
 ..........\OT1/cmr/m/n/10 e
+..........\glue 3.33333 plus 1.66666 minus 1.11111
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
 ..........\glue(\parfillskip) 0.0
@@ -4450,7 +4452,7 @@ Completed box being shipped out [1]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 135.52771fil
+........\hbox(8.39996+3.60004)x345.0, glue set 133.86104fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
 .........\OT1/cmr/m/n/10 M
@@ -4470,6 +4472,7 @@ Completed box being shipped out [1]
 .........\OT1/cmr/m/n/10 i
 .........\OT1/cmr/m/n/10 d
 .........\OT1/cmr/m/n/10 e
+.........\glue 3.33333 plus 1.66666 minus 1.11111
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
 .........\glue(\parfillskip) 0.0
@@ -4531,7 +4534,7 @@ Completed box being shipped out [2]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 135.52771fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 133.86104fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
 ..........\OT1/cmr/m/n/10 M
@@ -4551,6 +4554,7 @@ Completed box being shipped out [2]
 ..........\OT1/cmr/m/n/10 i
 ..........\OT1/cmr/m/n/10 d
 ..........\OT1/cmr/m/n/10 e
+..........\glue 3.33333 plus 1.66666 minus 1.11111
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
 ..........\glue(\parfillskip) 0.0
@@ -8419,7 +8423,7 @@ Completed box being shipped out [2]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 135.52771fil
+........\hbox(8.39996+3.60004)x345.0, glue set 133.86104fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
 .........\OT1/cmr/m/n/10 M
@@ -8439,6 +8443,7 @@ Completed box being shipped out [2]
 .........\OT1/cmr/m/n/10 i
 .........\OT1/cmr/m/n/10 d
 .........\OT1/cmr/m/n/10 e
+.........\glue 3.33333 plus 1.66666 minus 1.11111
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
 .........\glue(\parfillskip) 0.0
@@ -8456,4 +8461,3 @@ Completed box being shipped out [2]
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 0.0
 (manual-override.aux)
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.

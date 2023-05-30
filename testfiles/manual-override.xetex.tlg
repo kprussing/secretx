@@ -17,14 +17,14 @@ Completed box being shipped out [1]
 .......\hbox(8.39996+3.60004)x345.0
 ........\hbox(8.39996+3.60004)x0.0, glue set - 345.0fil
 .........\vbox(8.39996+3.60004)x345.0
-..........\hbox(8.39996+3.60004)x345.0, glue set 139.24fil
+..........\hbox(8.39996+3.60004)x345.0, glue set 136.74fil
 ...........\hbox(0.0+0.0)x0.0
 ...........\TU/lmr/m/n/10 Document
 ...........\glue 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 —
 ...........\discretionary
 ...........\glue 3.33 plus 1.665 minus 1.11
-...........\TU/lmr/m/n/10 5
+...........\TU/lmr/m/n/10 25
 ...........\rule(8.39996+3.60004)x0.0
 ...........\penalty 10000
 ...........\glue(\parfillskip) 0.0 plus 1.0fil
@@ -32,12 +32,13 @@ Completed box being shipped out [1]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 135.52fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 133.855fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
 ..........\TU/lmr/m/n/10 Manual
 ..........\glue 3.33 plus 1.665 minus 1.11
 ..........\TU/lmr/m/n/10 Override
+..........\glue 3.33 plus 1.665 minus 1.11
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
 ..........\glue(\parfillskip) 0.0
@@ -1269,12 +1270,13 @@ Completed box being shipped out [1]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 135.52fil
+........\hbox(8.39996+3.60004)x345.0, glue set 133.855fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
 .........\TU/lmr/m/n/10 Manual
 .........\glue 3.33 plus 1.665 minus 1.11
 .........\TU/lmr/m/n/10 Override
+.........\glue 3.33 plus 1.665 minus 1.11
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
 .........\glue(\parfillskip) 0.0
@@ -1318,12 +1320,13 @@ Completed box being shipped out [2]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 135.52fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 133.855fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
 ..........\TU/lmr/m/n/10 Manual
 ..........\glue 3.33 plus 1.665 minus 1.11
 ..........\TU/lmr/m/n/10 Override
+..........\glue 3.33 plus 1.665 minus 1.11
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
 ..........\glue(\parfillskip) 0.0
@@ -2473,12 +2476,13 @@ Completed box being shipped out [2]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 135.52fil
+........\hbox(8.39996+3.60004)x345.0, glue set 133.855fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
 .........\TU/lmr/m/n/10 Manual
 .........\glue 3.33 plus 1.665 minus 1.11
 .........\TU/lmr/m/n/10 Override
+.........\glue 3.33 plus 1.665 minus 1.11
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
 .........\glue(\parfillskip) 0.0
@@ -2495,4 +2499,3 @@ Completed box being shipped out [2]
 ..........\glue(\rightskip) 0.0
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 (manual-override.aux)
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
