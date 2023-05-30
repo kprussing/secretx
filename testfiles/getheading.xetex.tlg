@@ -1,0 +1,292 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Package secretx Warning: Deprecation warning: Marking FOUO is not correct.
+(secretx)                Define and use a CUI level instead.
+(secretx)                This level will be removed in v0.11.
+(secretx)                 on input line ....
+Completed box being shipped out [1]
+\vbox(633.0+3.60004)x407.0
+.\glue 16.0
+.\vbox(617.0+3.60004)x345.0, shifted 62.0
+..\vbox(12.0+0.0)x345.0
+...\glue 0.0 plus 1.0fil
+...\hbox(12.0+0.0)x345.0
+....\hbox(12.0+0.0)x345.0
+.....\hbox(12.0+0.0)x345.0
+......\vbox(12.0+0.0)x345.0
+.......\hbox(8.39996+3.60004)x345.0
+........\hbox(8.39996+3.60004)x0.0, glue set - 345.0fil
+.........\vbox(8.39996+3.60004)x345.0
+..........\hbox(8.39996+3.60004)x345.0, glue set 136.74fil
+...........\hbox(0.0+0.0)x0.0
+...........\TU/lmr/m/n/10 Document
+...........\glue 3.33 plus 1.665 minus 1.11
+...........\TU/lmr/m/n/10 —
+...........\discretionary
+...........\glue 3.33 plus 1.665 minus 1.11
+...........\TU/lmr/m/n/10 25
+...........\rule(8.39996+3.60004)x0.0
+...........\penalty 10000
+...........\glue(\parfillskip) 0.0 plus 1.0fil
+...........\glue(\rightskip) 0.0 plus 1.0fil
+.........\glue 0.0 plus 1.0fil minus 1.0fil
+........\glue 0.0 plus 1.0fill
+........\vbox(8.39996+3.60004)x345.0
+.........\hbox(8.39996+3.60004)x345.0, glue set 136.63501fil
+..........\glue(\leftskip) 0.0 plus 1.0fil
+..........\hbox(0.0+0.0)x0.0
+..........\TU/lmr/m/n/10 Very
+..........\glue 3.33 plus 1.665 minus 1.11
+..........\TU/lmr/m/n/10 Important
+..........\glue 3.33 plus 1.665 minus 1.11
+..........\rule(8.39996+3.60004)x0.0
+..........\penalty 10000
+..........\glue(\parfillskip) 0.0
+..........\glue(\rightskip) 0.0 plus 1.0fil
+........\glue 0.0 plus 1.0fill
+........\hbox(8.39996+3.60004)x0.0, glue set - 345.0fil
+.........\glue 0.0 plus 1.0fil minus 1.0fil
+.........\vbox(8.39996+3.60004)x345.0
+..........\hbox(8.39996+3.60004)x345.0, glue set 297.37fil
+...........\glue(\leftskip) 0.0 plus 1.0fil
+...........\hbox(0.0+0.0)x0.0
+...........\TU/lmr/m/n/10 Page
+...........\glue 3.33 plus 1.665 minus 1.11
+...........\TU/lmr/m/n/10 —
+...........\discretionary
+...........\glue 3.33 plus 1.665 minus 1.11
+...........\TU/lmr/m/n/10 25
+...........\rule(8.39996+3.60004)x0.0
+...........\penalty 10000
+...........\glue(\parfillskip) 0.0
+...........\glue(\rightskip) 0.0
+.......\glue 0.0
+.......\rule(0.0+0.0)x345.0
+.......\glue 0.0
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+..\glue 25.0
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x345.0, glue set 467.95001fil
+...\write-{}
+...\write1{\zref@newlabel{secretx@mark-begin-1}{\default{}\page{\Z@C@page }\absp\ETC.}
+...\glue(\topskip) 2.5
+...\hbox(7.5+2.49998)x345.0, glue set 193.48997fil
+....\hbox(7.5+2.49998)x0.0, glue set - 21.11fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/m/n/10 (1)
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\glue 5.0
+.....\glue 0.0
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Heading:
+....\glue 4.44 plus 3.32999 minus 0.555
+....\TU/lmr/m/n/10 Trivial
+....\glue 3.33 plus 1.665 minus 1.11
+....\write1{\zref@newlabel{secretx@mark-end-1}{\default{}\page{\Z@C@page }\abspag\ETC.}
+....\penalty 10000
+....\glue 0.0
+....\TU/lmr/m/n/10 Trivial
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Trivial
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\write1{\zref@newlabel{secretx@mark-begin-2}{\default{}\page{\Z@C@page }\absp\ETC.}
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 127.78995fil
+....\hbox(7.5+2.49998)x0.0, glue set - 21.11fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/m/n/10 (2)
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\glue 5.0
+.....\glue 0.0
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Heading:
+....\glue 4.44 plus 3.32999 minus 0.555
+....\TU/lmr/m/n/10 Less
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Trivial
+....\glue 3.33 plus 1.665 minus 1.11
+....\write1{\zref@newlabel{secretx@mark-end-2}{\default{}\page{\Z@C@page }\abspag\ETC.}
+....\penalty 10000
+....\glue 0.0
+....\TU/lmr/m/n/10 Less
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Trivial
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Less
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Trivial
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\write1{\zref@newlabel{secretx@mark-begin-3}{\default{}\page{\Z@C@page }\absp\ETC.}
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 165.11fil
+....\hbox(7.5+2.49998)x0.0, glue set - 21.11fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/m/n/10 (5)
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\glue 5.0
+.....\glue 0.0
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Heading:
+....\glue 4.44 plus 3.32999 minus 0.555
+....\TU/lmr/m/n/10 Sensitive
+....\glue 3.33 plus 1.665 minus 1.11
+....\write1{\zref@newlabel{secretx@mark-end-3}{\default{}\page{\Z@C@page }\abspag\ETC.}
+....\penalty 10000
+....\glue 0.0
+....\TU/lmr/m/n/10 Sensitive
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Sensitive
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\write1{\zref@newlabel{secretx@mark-begin-4}{\default{}\page{\Z@C@page }\absp\ETC.}
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 146.00002fil
+....\hbox(7.5+2.49998)x0.0, glue set - 26.11fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/m/n/10 (10)
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\glue 5.0
+.....\glue 0.0
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Heading:
+....\glue 4.44 plus 3.32999 minus 0.555
+....\TU/lmr/m/n/10 Important
+....\glue 3.33 plus 1.665 minus 1.11
+....\write1{\zref@newlabel{secretx@mark-end-4}{\default{}\page{\Z@C@page }\abspag\ETC.}
+....\penalty 10000
+....\glue 0.0
+....\TU/lmr/m/n/10 Important
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Important
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\write1{\zref@newlabel{secretx@mark-begin-5}{\default{}\page{\Z@C@page }\absp\ETC.}
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.00002
+...\hbox(7.5+2.49998)x345.0, glue set 0.23499
+....\hbox(7.5+2.49998)x0.0, glue set - 26.11fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/m/n/10 (15)
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\glue 5.0
+.....\glue 0.0
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Heading:
+....\glue 4.44 plus 3.32999 minus 0.555
+....\TU/lmr/m/n/10 Important
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 with
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Qualifications
+....\glue 3.33 plus 1.665 minus 1.11
+....\write1{\zref@newlabel{secretx@mark-end-5}{\default{}\page{\Z@C@page }\abspag\ETC.}
+....\penalty 10000
+....\glue 0.0
+....\TU/lmr/m/n/10 Important
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 with
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Qualifications
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Im-
+....\glue(\rightskip) 0.0
+...\penalty 400
+...\glue(\baselineskip) 2.45001
+...\hbox(7.05+1.93999)x345.0, glue set 225.99998fil
+....\TU/lmr/m/n/10 portant
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 with
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Qualifications
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\write1{\zref@newlabel{secretx@mark-begin-6}{\default{}\page{\Z@C@page }\absp\ETC.}
+...\glue(\parskip) 0.0 plus 1.0
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.56001
+...\hbox(7.5+2.49998)x345.0, glue set 75.08002fil
+....\hbox(7.5+2.49998)x0.0, glue set - 26.11fil
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+.....\TU/lmr/m/n/10 (25)
+.....\glue 3.33 plus 1.665 minus 1.11
+.....\glue 5.0
+.....\glue 0.0
+....\hbox(0.0+0.0)x15.0
+....\TU/lmr/m/n/10 Heading:
+....\glue 4.44 plus 3.32999 minus 0.555
+....\TU/lmr/m/n/10 Very
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Important
+....\glue 3.33 plus 1.665 minus 1.11
+....\write1{\zref@newlabel{secretx@mark-end-6}{\default{}\page{\Z@C@page }\abspag\ETC.}
+....\penalty 10000
+....\glue 0.0
+....\TU/lmr/m/n/10 Very
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Important
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Very
+....\glue 3.33 plus 1.665 minus 1.11
+....\TU/lmr/m/n/10 Important
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue -2.49998
+...\glue 0.0 plus 1.0fil
+...\glue 0.0
+...\glue 0.0 plus 0.0001fil
+..\glue(\baselineskip) 18.0
+..\hbox(12.0+3.60004)x345.0
+...\hbox(12.0+3.60004)x345.0
+....\hbox(12.0+3.60004)x345.0
+.....\vbox(12.0+3.60004)x345.0
+......\rule(0.0+0.0)x345.0
+......\glue 3.60004
+......\hbox(8.39996+3.60004)x345.0
+.......\hbox(0.0+0.0)x0.0, glue set - 345.0fil
+........\vbox(0.0+0.0)x345.0
+.........\hbox(0.0+0.0)x345.0, glue set 172.5fil
+..........\hbox(0.0+0.0)x0.0
+..........\penalty 10000
+..........\glue(\parfillskip) 0.0 plus 1.0fil
+..........\glue(\rightskip) 0.0 plus 1.0fil
+........\glue 0.0 plus 1.0fil minus 1.0fil
+.......\glue 0.0 plus 1.0fill
+.......\vbox(8.39996+3.60004)x345.0
+........\hbox(8.39996+3.60004)x345.0, glue set 136.63501fil
+.........\glue(\leftskip) 0.0 plus 1.0fil
+.........\hbox(0.0+0.0)x0.0
+.........\TU/lmr/m/n/10 Very
+.........\glue 3.33 plus 1.665 minus 1.11
+.........\TU/lmr/m/n/10 Important
+.........\glue 3.33 plus 1.665 minus 1.11
+.........\rule(8.39996+3.60004)x0.0
+.........\penalty 10000
+.........\glue(\parfillskip) 0.0
+.........\glue(\rightskip) 0.0 plus 1.0fil
+.......\glue 0.0 plus 1.0fill
+.......\hbox(0.0+0.0)x0.0, glue set - 345.0fil
+........\glue 0.0 plus 1.0fil minus 1.0fil
+........\vbox(0.0+0.0)x345.0
+.........\hbox(0.0+0.0)x345.0, glue set 345.0fil
+..........\glue(\leftskip) 0.0 plus 1.0fil
+..........\hbox(0.0+0.0)x0.0
+..........\penalty 10000
+..........\glue(\parfillskip) 0.0
+..........\glue(\rightskip) 0.0
+....\glue 0.0 plus 1.0fil minus 1.0fil
+(getheading.aux)

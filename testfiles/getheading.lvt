@@ -1,0 +1,35 @@
+\input{regression-test}
+\documentclass{article}
+\usepackage{secretx}
+\input{redefines}
+\usepackage{mwe}
+\begin{document}
+\START
+\showoutput
+
+\getheading
+
+\unclassified{Heading: \getheading}
+\getheading[1]
+\getheading
+
+\fouo{Heading: \getheading}
+\getheading[2]
+\getheading
+
+\confidential{Heading: \getheading}
+\getheading[5]
+\getheading
+
+\secret{Heading: \getheading}
+\getheading[10]
+\getheading
+
+\secretnoforn{Heading: \getheading}
+\getheading[15]
+\getheading
+
+\topsecret{Heading: \getheading}
+\getheading[25]
+\getheading
+\end{document}
