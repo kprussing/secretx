@@ -22,7 +22,9 @@ for _, example in pairs(demofiles) do
 end
 
 -- Set the engine to get xetex and luatex to not run so it can pass
-checkengines = {"pdftex"}
+--checkengines = {"pdftex"}
+forcecheckruns = true
+checkruns = 2
 
 ctanreadme = "README.rst"
 ctanzip = module .. "-" .. version
