@@ -1316,9 +1316,14 @@ Completed box being shipped out [2]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 170.835fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 105.365fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
+..........\TU/lmr/m/n/10 Important
+..........\glue 3.33 plus 1.665 minus 1.11
+..........\TU/lmr/m/n/10 with
+..........\glue 3.33 plus 1.665 minus 1.11
+..........\TU/lmr/m/n/10 Qualifications
 ..........\glue 3.33 plus 1.665 minus 1.11
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
@@ -1328,7 +1333,7 @@ Completed box being shipped out [2]
 ........\hbox(8.39996+3.60004)x0.0, glue set - 345.0fil
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 .........\vbox(8.39996+3.60004)x345.0
-..........\hbox(8.39996+3.60004)x345.0, glue set 302.37fil
+..........\hbox(8.39996+3.60004)x345.0, glue set 297.37fil
 ...........\glue(\leftskip) 0.0 plus 1.0fil
 ...........\hbox(0.0+0.0)x0.0
 ...........\TU/lmr/m/n/10 Page
@@ -1336,7 +1341,7 @@ Completed box being shipped out [2]
 ...........\TU/lmr/m/n/10 —
 ...........\discretionary
 ...........\glue 3.33 plus 1.665 minus 1.11
-...........\TU/lmr/m/n/10 0
+...........\TU/lmr/m/n/10 15
 ...........\rule(8.39996+3.60004)x0.0
 ...........\penalty 10000
 ...........\glue(\parfillskip) 0.0
@@ -2465,9 +2470,14 @@ Completed box being shipped out [2]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 170.835fil
+........\hbox(8.39996+3.60004)x345.0, glue set 105.365fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
+.........\TU/lmr/m/n/10 Important
+.........\glue 3.33 plus 1.665 minus 1.11
+.........\TU/lmr/m/n/10 with
+.........\glue 3.33 plus 1.665 minus 1.11
+.........\TU/lmr/m/n/10 Qualifications
 .........\glue 3.33 plus 1.665 minus 1.11
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
@@ -2485,4 +2495,3 @@ Completed box being shipped out [2]
 ..........\glue(\rightskip) 0.0
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 (level-15.aux)
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.

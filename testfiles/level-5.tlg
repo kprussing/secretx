@@ -4510,9 +4510,19 @@ Completed box being shipped out [2]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 170.83334fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 151.63885fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
+..........\OT1/cmr/m/n/10 S
+..........\OT1/cmr/m/n/10 e
+..........\OT1/cmr/m/n/10 n
+..........\OT1/cmr/m/n/10 s
+..........\OT1/cmr/m/n/10 i
+..........\OT1/cmr/m/n/10 t
+..........\OT1/cmr/m/n/10 i
+..........\OT1/cmr/m/n/10 v
+..........\kern-0.27779
+..........\OT1/cmr/m/n/10 e
 ..........\glue 3.33333 plus 1.66666 minus 1.11111
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
@@ -4534,7 +4544,7 @@ Completed box being shipped out [2]
 ...........\OT1/cmr/m/n/10 | (ligature ---)
 ...........\discretionary
 ...........\glue 3.33333 plus 1.66666 minus 1.11111
-...........\OT1/cmr/m/n/10 0
+...........\OT1/cmr/m/n/10 5
 ...........\rule(8.39996+3.60004)x0.0
 ...........\penalty 10000
 ...........\glue(\parfillskip) 0.0
@@ -8376,9 +8386,19 @@ Completed box being shipped out [2]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 170.83334fil
+........\hbox(8.39996+3.60004)x345.0, glue set 151.63885fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
+.........\OT1/cmr/m/n/10 S
+.........\OT1/cmr/m/n/10 e
+.........\OT1/cmr/m/n/10 n
+.........\OT1/cmr/m/n/10 s
+.........\OT1/cmr/m/n/10 i
+.........\OT1/cmr/m/n/10 t
+.........\OT1/cmr/m/n/10 i
+.........\OT1/cmr/m/n/10 v
+.........\kern-0.27779
+.........\OT1/cmr/m/n/10 e
 .........\glue 3.33333 plus 1.66666 minus 1.11111
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
@@ -8397,4 +8417,3 @@ Completed box being shipped out [2]
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 0.0
 (level-5.aux)
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.

@@ -4521,9 +4521,20 @@ Completed box being shipped out [2]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0
-.........\hbox(8.39996+3.60004)x345.0, glue set 170.83334fil
+.........\hbox(8.39996+3.60004)x345.0, glue set 148.45828fil
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\hbox(0.0+0.0)x0.0
+..........\OT1/cmr/m/n/10 I
+..........\OT1/cmr/m/n/10 m
+..........\OT1/cmr/m/n/10 p
+..........\kern0.27779
+..........\OT1/cmr/m/n/10 o
+..........\OT1/cmr/m/n/10 r
+..........\OT1/cmr/m/n/10 t
+..........\OT1/cmr/m/n/10 a
+..........\OT1/cmr/m/n/10 n
+..........\kern-0.27779
+..........\OT1/cmr/m/n/10 t
 ..........\glue 3.33333 plus 1.66666 minus 1.11111
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
@@ -4533,7 +4544,7 @@ Completed box being shipped out [2]
 ........\hbox(8.39996+3.60004)x0.0, glue set - 345.0fil
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 .........\vbox(8.39996+3.60004)x345.0
-..........\hbox(8.39996+3.60004)x345.0, glue set 302.36105fil
+..........\hbox(8.39996+3.60004)x345.0, glue set 297.36104fil
 ...........\glue(\leftskip) 0.0 plus 1.0fil
 ...........\hbox(0.0+0.0)x0.0
 ...........\OT1/cmr/m/n/10 P
@@ -4545,6 +4556,7 @@ Completed box being shipped out [2]
 ...........\OT1/cmr/m/n/10 | (ligature ---)
 ...........\discretionary
 ...........\glue 3.33333 plus 1.66666 minus 1.11111
+...........\OT1/cmr/m/n/10 1
 ...........\OT1/cmr/m/n/10 0
 ...........\rule(8.39996+3.60004)x0.0
 ...........\penalty 10000
@@ -8391,9 +8403,20 @@ Completed box being shipped out [2]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0
-........\hbox(8.39996+3.60004)x345.0, glue set 170.83334fil
+........\hbox(8.39996+3.60004)x345.0, glue set 148.45828fil
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\hbox(0.0+0.0)x0.0
+.........\OT1/cmr/m/n/10 I
+.........\OT1/cmr/m/n/10 m
+.........\OT1/cmr/m/n/10 p
+.........\kern0.27779
+.........\OT1/cmr/m/n/10 o
+.........\OT1/cmr/m/n/10 r
+.........\OT1/cmr/m/n/10 t
+.........\OT1/cmr/m/n/10 a
+.........\OT1/cmr/m/n/10 n
+.........\kern-0.27779
+.........\OT1/cmr/m/n/10 t
 .........\glue 3.33333 plus 1.66666 minus 1.11111
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
@@ -8412,4 +8435,3 @@ Completed box being shipped out [2]
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern 0.0
 (level-10.aux)
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.

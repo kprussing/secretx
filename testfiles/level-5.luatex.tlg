@@ -4542,7 +4542,7 @@ Completed box being shipped out [2]
 .........\glue 0.0 plus 1.0fil minus 1.0fil
 ........\glue 0.0 plus 1.0fill
 ........\vbox(8.39996+3.60004)x345.0, direction TLT
-.........\hbox(8.39996+3.60004)x345.0, glue set 170.83499fil, direction TLT
+.........\hbox(8.39996+3.60004)x345.0, glue set 151.64fil, direction TLT
 ..........\glue(\leftskip) 0.0 plus 1.0fil
 ..........\localpar
 ...........\localinterlinepenalty=0
@@ -4550,6 +4550,20 @@ Completed box being shipped out [2]
 ...........\localleftbox=null
 ...........\localrightbox=null
 ..........\hbox(0.0+0.0)x0.0, direction TLT
+..........\TU/lmr/m/n/10 S
+..........\TU/lmr/m/n/10 e
+..........\TU/lmr/m/n/10 n
+..........\discretionary (penalty 50)
+...........< \TU/lmr/m/n/10 -
+..........\TU/lmr/m/n/10 s
+..........\TU/lmr/m/n/10 i
+..........\discretionary (penalty 50)
+...........< \TU/lmr/m/n/10 -
+..........\TU/lmr/m/n/10 t
+..........\TU/lmr/m/n/10 i
+..........\TU/lmr/m/n/10 v
+..........\kern-0.28 (font)
+..........\TU/lmr/m/n/10 e
 ..........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ..........\rule(8.39996+3.60004)x0.0
 ..........\penalty 10000
@@ -4575,7 +4589,7 @@ Completed box being shipped out [2]
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 ...........\TU/lmr/m/n/10 — (ligature ---)
 ...........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
-...........\TU/lmr/m/n/10 0
+...........\TU/lmr/m/n/10 5
 ...........\rule(8.39996+3.60004)x0.0
 ...........\penalty 10000
 ...........\glue(\parfillskip) 0.0
@@ -8598,7 +8612,7 @@ Completed box being shipped out [2]
 ........\glue 0.0 plus 1.0fil minus 1.0fil
 .......\glue 0.0 plus 1.0fill
 .......\vbox(8.39996+3.60004)x345.0, direction TLT
-........\hbox(8.39996+3.60004)x345.0, glue set 170.83499fil, direction TLT
+........\hbox(8.39996+3.60004)x345.0, glue set 151.64fil, direction TLT
 .........\glue(\leftskip) 0.0 plus 1.0fil
 .........\localpar
 ..........\localinterlinepenalty=0
@@ -8606,6 +8620,20 @@ Completed box being shipped out [2]
 ..........\localleftbox=null
 ..........\localrightbox=null
 .........\hbox(0.0+0.0)x0.0, direction TLT
+.........\TU/lmr/m/n/10 S
+.........\TU/lmr/m/n/10 e
+.........\TU/lmr/m/n/10 n
+.........\discretionary (penalty 50)
+..........< \TU/lmr/m/n/10 -
+.........\TU/lmr/m/n/10 s
+.........\TU/lmr/m/n/10 i
+.........\discretionary (penalty 50)
+..........< \TU/lmr/m/n/10 -
+.........\TU/lmr/m/n/10 t
+.........\TU/lmr/m/n/10 i
+.........\TU/lmr/m/n/10 v
+.........\kern-0.28 (font)
+.........\TU/lmr/m/n/10 e
 .........\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
 .........\rule(8.39996+3.60004)x0.0
 .........\penalty 10000
@@ -8629,4 +8657,3 @@ Completed box being shipped out [2]
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 .\kern0.0
 (level-5.aux)
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
