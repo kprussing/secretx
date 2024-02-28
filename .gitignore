@@ -1,5 +1,7 @@
 build
 secretx.sty
+secretx.bib
+secretx.listing
 example-*.tex
 *.hd
 *.glg
