@@ -112,6 +112,9 @@ Completed box being shipped out [1]
 ..\vbox(0.0+0.0)x0.0, glue set 72.26999fil, direction TLT
 ...\kern-72.26999
 ...\hbox(0.0+0.0)x0.0, direction TLT
+....\hbox(0.0+0.0)x0.0, glue set 72.26999fil, shifted 72.26999, direction TLT
+.....\kern-72.26999
+.....\glue 0.0 plus 1.0fil minus 1.0fil
 ....\glue 0.0 plus 1.0fil minus 1.0fil
 ...\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue 16.0
@@ -119,6 +122,7 @@ Completed box being shipped out [1]
 ..\vbox(12.0+0.0)x345.0, direction TLT
 ...\glue 0.0 plus 1.0fil
 ...\hbox(12.0+0.0)x345.0, direction TLT
+....\pdfcolorstack 0 push {0 g 0 G}
 ....\hbox(12.0+0.0)x345.0, direction TLT
 .....\hbox(12.0+0.0)x345.0, direction TLT
 ......\vbox(12.0+0.0)x345.0, direction TLT
@@ -209,10 +213,12 @@ Completed box being shipped out [1]
 .......\rule(0.0+0.0)x345.0
 .......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
+....\pdfcolorstack 0 pop
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x345.0, glue set - 0.06572, direction TLT
 ...\write-{}
+...\pdfcolorstack 0 push {0 g 0 G}
 ...\glue(\topskip) 0.00641
 ...\hbox(9.99359+2.8944)x345.0, glue set 201.3169fil, direction TLT
 ....\localpar
@@ -277,11 +283,13 @@ Completed box being shipped out [1]
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(6.66+0.0)x20.0, glue set 20.0fil, direction TLT
+......\pdfcolorstack 0 push {0 g 0 G}
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(6.66+0.0)x0.0, glue set - 7.78fil, direction TLT
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 1
 .......\TU/lmr/m/n/10 .
+......\pdfcolorstack 0 pop
 .....\glue 5.0
 ....\penalty 0
 ....\TU/lmr/m/n/10 L
@@ -1431,11 +1439,13 @@ Completed box being shipped out [1]
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(6.66+0.0)x20.0, glue set 20.0fil, direction TLT
+......\pdfcolorstack 0 push {0 g 0 G}
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(6.66+0.0)x0.0, glue set - 7.78fil, direction TLT
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 1
 .......\TU/lmr/m/n/10 .
+......\pdfcolorstack 0 pop
 .....\glue 5.0
 ....\penalty 0
 ....\TU/lmr/m/n/10 N
@@ -2148,11 +2158,13 @@ Completed box being shipped out [1]
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(6.66+0.0)x20.0, glue set 20.0fil, direction TLT
+......\pdfcolorstack 0 push {0 g 0 G}
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(6.66+0.0)x0.0, glue set - 7.78fil, direction TLT
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 2
 .......\TU/lmr/m/n/10 .
+......\pdfcolorstack 0 pop
 .....\glue 5.0
 ....\penalty 0
 ....\TU/lmr/m/n/10 N
@@ -3701,6 +3713,7 @@ Completed box being shipped out [1]
 ...\glue 0.0 plus 0.0001fil
 ..\glue(\baselineskip) 18.0
 ..\hbox(12.0+3.60004)x345.0, direction TLT
+...\pdfcolorstack 0 push {0 g 0 G}
 ...\hbox(12.0+3.60004)x345.0, direction TLT
 ....\hbox(12.0+3.60004)x345.0, direction TLT
 .....\vbox(12.0+3.60004)x345.0, direction TLT
@@ -3761,5 +3774,6 @@ Completed box being shipped out [1]
 ..........\glue(\parfillskip) 0.0
 ..........\glue(\rightskip) 0.0
 ....\glue 0.0 plus 1.0fil minus 1.0fil
+...\pdfcolorstack 0 pop
 .\kern0.0
 (lists-enumerate.aux)

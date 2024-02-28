@@ -2,11 +2,25 @@ This is a generated file for the l3build validation system.
 Don't change this file in any respect.
 Completed box being shipped out [1]
 \vbox(633.0+3.60004)x407.0
+.\hbox(0.0+0.0)x0.0
+..\kern -72.26999
+..\vbox(0.0+0.0)x0.0, glue set 72.26999fil
+...\kern -72.26999
+...\hbox(0.0+0.0)x0.0
+....\hbox(0.0+0.0)x0.0, glue set 72.26999fil, shifted 72.26999
+.....\kern -72.26999
+.....\special{pdf:obj @pgfcolorspaces <<>>}
+.....\special{pdf:put @resources << /ColorSpace @pgfcolorspaces >>}
+.....\special{pdf:put @pgfcolorspaces <<  /pgfprgb [/Pattern /DeviceRGB]  >>}
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue 16.0
 .\vbox(617.0+3.60004)x345.0, shifted 62.0
 ..\vbox(12.0+0.0)x345.0
 ...\glue 0.0 plus 1.0fil
 ...\hbox(12.0+0.0)x345.0
+....\special{color push gray 0}
 ....\hbox(12.0+0.0)x345.0
 .....\hbox(12.0+0.0)x345.0
 ......\vbox(12.0+0.0)x345.0
@@ -58,10 +72,12 @@ Completed box being shipped out [1]
 .......\rule(0.0+0.0)x345.0
 .......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
+....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x345.0, glue set - 0.06572
 ...\write-{}
+...\special{color push gray 0}
 ...\glue(\topskip) 0.00641
 ...\hbox(9.99359+2.89438)x345.0, glue set 201.31688fil
 ....\hbox(9.4464+0.0)x22.50719
@@ -102,10 +118,12 @@ Completed box being shipped out [1]
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(6.66+0.0)x20.0, glue set 20.0fil
+......\special{color push gray 0}
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(6.66+0.0)x0.0, glue set - 7.78fil
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 1.
+......\special{color pop}
 .....\glue 5.0
 ....\penalty 0
 ....\TU/lmr/m/n/10 Lorem
@@ -454,10 +472,12 @@ Completed box being shipped out [1]
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(6.66+0.0)x20.0, glue set 20.0fil
+......\special{color push gray 0}
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(6.66+0.0)x0.0, glue set - 7.78fil
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 1.
+......\special{color pop}
 .....\glue 5.0
 ....\penalty 0
 ....\TU/lmr/m/n/10 Nam
@@ -661,10 +681,12 @@ Completed box being shipped out [1]
 .....\glue -20.0
 .....\glue -5.0
 .....\hbox(6.66+0.0)x20.0, glue set 20.0fil
+......\special{color push gray 0}
 ......\glue 0.0 plus 1.0fil minus 1.0fil
 ......\hbox(6.66+0.0)x0.0, glue set - 7.78fil
 .......\glue 0.0 plus 1.0fil minus 1.0fil
 .......\TU/lmr/m/n/10 2.
+......\special{color pop}
 .....\glue 5.0
 ....\penalty 0
 ....\TU/lmr/m/n/10 Nulla
@@ -1086,6 +1108,7 @@ Completed box being shipped out [1]
 ...\glue 0.0 plus 0.0001fil
 ..\glue(\baselineskip) 18.0
 ..\hbox(12.0+3.60004)x345.0
+...\special{color push gray 0}
 ...\hbox(12.0+3.60004)x345.0
 ....\hbox(12.0+3.60004)x345.0
 .....\vbox(12.0+3.60004)x345.0
@@ -1122,4 +1145,6 @@ Completed box being shipped out [1]
 ..........\glue(\parfillskip) 0.0
 ..........\glue(\rightskip) 0.0
 ....\glue 0.0 plus 1.0fil minus 1.0fil
+...\special{color pop}
+.\kern 0.0
 (lists-enumerate.aux)

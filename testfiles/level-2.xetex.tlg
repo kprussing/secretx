@@ -10,11 +10,25 @@ Package secretx Warning: Deprecation warning: Marking FOUO is not correct.
 (secretx)                 on input line ....
 Completed box being shipped out [1]
 \vbox(633.0+3.60004)x407.0
+.\hbox(0.0+0.0)x0.0
+..\kern -72.26999
+..\vbox(0.0+0.0)x0.0, glue set 72.26999fil
+...\kern -72.26999
+...\hbox(0.0+0.0)x0.0
+....\hbox(0.0+0.0)x0.0, glue set 72.26999fil, shifted 72.26999
+.....\kern -72.26999
+.....\special{pdf:obj @pgfcolorspaces <<>>}
+.....\special{pdf:put @resources << /ColorSpace @pgfcolorspaces >>}
+.....\special{pdf:put @pgfcolorspaces <<  /pgfprgb [/Pattern /DeviceRGB]  >>}
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue 16.0
 .\vbox(617.0+3.60004)x345.0, shifted 62.0
 ..\vbox(12.0+0.0)x345.0
 ...\glue 0.0 plus 1.0fil
 ...\hbox(12.0+0.0)x345.0
+....\special{color push gray 0}
 ....\hbox(12.0+0.0)x345.0
 .....\hbox(12.0+0.0)x345.0
 ......\vbox(12.0+0.0)x345.0
@@ -68,10 +82,12 @@ Completed box being shipped out [1]
 .......\rule(0.0+0.0)x345.0
 .......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
+....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x345.0
 ...\write-{}
+...\special{color push gray 0}
 ...\write1{\zref@newlabel{secretx@mark-begin-1}{\default{}\page{\Z@C@page }\absp\ETC.}
 ...\glue(\topskip) 2.5
 ...\hbox(7.5+2.49998)x345.0, glue set 0.85997
@@ -1254,6 +1270,7 @@ Completed box being shipped out [1]
 ...\glue 0.0 plus 0.0001fil
 ..\glue(\baselineskip) 18.0
 ..\hbox(12.0+3.60004)x345.0
+...\special{color push gray 0}
 ...\hbox(12.0+3.60004)x345.0
 ....\hbox(12.0+3.60004)x345.0
 .....\vbox(12.0+3.60004)x345.0
@@ -1292,13 +1309,27 @@ Completed box being shipped out [1]
 ..........\glue(\parfillskip) 0.0
 ..........\glue(\rightskip) 0.0
 ....\glue 0.0 plus 1.0fil minus 1.0fil
+...\special{color pop}
+.\kern 0.0
 Completed box being shipped out [2]
 \vbox(633.0+3.60004)x407.0
+.\hbox(0.0+0.0)x0.0
+..\kern -72.26999
+..\vbox(0.0+0.0)x0.0, glue set 72.26999fil
+...\kern -72.26999
+...\hbox(0.0+0.0)x0.0
+....\hbox(0.0+0.0)x0.0, glue set 72.26999fil, shifted 72.26999
+.....\kern -72.26999
+.....\special{pdf:put @resources << /ColorSpace @pgfcolorspaces >>}
+.....\glue 0.0 plus 1.0fil minus 1.0fil
+....\glue 0.0 plus 1.0fil minus 1.0fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
 .\glue 16.0
 .\vbox(617.0+3.60004)x345.0, shifted 62.0
 ..\vbox(12.0+0.0)x345.0
 ...\glue 0.0 plus 1.0fil
 ...\hbox(12.0+0.0)x345.0
+....\special{color push gray 0}
 ....\hbox(12.0+0.0)x345.0
 .....\hbox(12.0+0.0)x345.0
 ......\vbox(12.0+0.0)x345.0
@@ -1352,6 +1383,7 @@ Completed box being shipped out [2]
 .......\rule(0.0+0.0)x345.0
 .......\glue 0.0
 .....\glue 0.0 plus 1.0fil minus 1.0fil
+....\special{color pop}
 ..\glue 25.0
 ..\glue(\lineskip) 0.0
 ..\vbox(550.0+0.0)x345.0, glue set 11.99872fil
@@ -2456,6 +2488,7 @@ Completed box being shipped out [2]
 ...\glue 0.0 plus 0.0001fil
 ..\glue(\baselineskip) 18.0
 ..\hbox(12.0+3.60004)x345.0
+...\special{color push gray 0}
 ...\hbox(12.0+3.60004)x345.0
 ....\hbox(12.0+3.60004)x345.0
 .....\vbox(12.0+3.60004)x345.0
@@ -2494,4 +2527,6 @@ Completed box being shipped out [2]
 ..........\glue(\parfillskip) 0.0
 ..........\glue(\rightskip) 0.0
 ....\glue 0.0 plus 1.0fil minus 1.0fil
+...\special{color pop}
+.\kern 0.0
 (level-2.aux)
