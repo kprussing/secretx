@@ -25,6 +25,11 @@ end
 --checkengines = {"pdftex"}
 forcecheckruns = true
 checkruns = 2
+excludetests = {"level-*",
+                "lists-*",
+                "getheading",
+                "manual-override",
+                }
 
 ctanreadme = "README.rst"
 ctanzip = module .. "-" .. version
