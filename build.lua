@@ -10,8 +10,8 @@ texmfdir = "build/unpacked"
 
 -- Typeset and install the examples and sources to the doc folder
 docdir = "doc/latex/" .. module .. "/"
-demofiles = {"example-doc.tex",
-             "example-slides.tex"}
+demofiles = {"secretx-demo-doc.tex",
+             "secretx-demo-slides.tex"}
 typesetdemofiles = demofiles
 docfiles = demofiles
 installfiles = {"*.sty"}
