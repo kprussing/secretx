@@ -31,7 +31,6 @@ excludetests = {"level-*",
                 "manual-override",
                 }
 
-ctanreadme = "README.rst"
 ctanzip = module .. "-" .. version
 
 -- Set the configuration details
